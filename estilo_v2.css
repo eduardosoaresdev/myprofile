@@ -1,0 +1,36 @@
+body {
+  background-color: #1c1c1c;
+  color: #DCDCDC;
+  font-family: Century Gothic;
+}
+h1 {
+	font-weight: bold;
+	color: #1E90FF;
+}
+h2 {
+	font-weight: bold;
+	color: #1E90FF;
+}
+a {
+	 text-decoration: none;
+	 color: #DCDCDC;
+}
+p{
+	margin: 0;
+	margin-bottom: 5px;
+	padding: 0;
+}
+.anularLista {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#imgPerfilPrincipal {
+	width: 80%;
+	border: 1px solid white;
+	box-shadow: 3px 3px;
+}
+#imgLinkedin {
+	width: 3%;
+	border-radius: 5px;
+}
